@@ -6,3 +6,6 @@ Use the "Wiki" tab on the top toolbar to see all of the wiki pages and create yo
 See [here](https://docs.github.com/en/communities/documenting-your-project-with-wikis) for an intro of how to use Github Wiki's.
 
 Please stick to writing files in markdown (.md), it keeps the formatting clean and allows easy file transfer to private software like Obsidian etc.
+
+REMEMBER THAT THIS IS CURRENTLY PUBLIC!!! 
+Do NOT upload any sensitive or personal information, create a new private repo if you need to do that.
