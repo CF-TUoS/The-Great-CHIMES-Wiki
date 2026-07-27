@@ -7,5 +7,9 @@ See [here](https://docs.github.com/en/communities/documenting-your-project-with-
 
 Please stick to writing files in markdown (.md), it keeps the formatting clean and allows easy file transfer to private software like Obsidian etc.
 
-REMEMBER THAT THIS IS CURRENTLY PUBLIC!!! 
+This is NOT for uploading project-specific details or code, just general information. 
+For example, the specifications for a new power converter should not be stored here, but the theory behind how to design different voltage regulators would be suitable.
+
+Remember: This Is A Public Repo!!! 
+-
 Do NOT upload any sensitive or personal information, create a new private repo if you need to do that.
