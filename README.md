@@ -13,9 +13,11 @@ Use the "Wiki" tab on the top toolbar to see all of the wiki pages and create yo
 
 See [here](https://docs.github.com/en/communities/documenting-your-project-with-wikis) for an intro of how to use Github Wiki's.
 
-Please stick to writing files in markdown (.md), it keeps the formatting clean and allows easy file transfer to private software like Obsidian etc.
+Please stick to writing files in markdown (.md), preferably Github-Flavored Markdown. This helps to keep the formatting consistent and allows easy file transfer to private software like Obsidian etc.
 
-[Here](https://www.markdownguide.org/basic-syntax/) is a good guide to markdown syntax for basic formatting (headings, lists and so on).
+[Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to the Github documentation for all things to do with Github-Flavored Markdown. (Recommended) <br>
+[Here](https://www.markdownguide.org/basic-syntax/) is a good guide to generic markdown syntax for basic formatting.<br>
+
 
 ## How NOT To Use This Repo
 
