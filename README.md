@@ -1,4 +1,5 @@
-# The-Great-CHIMES-Wiki
+# The Great CHIMES Wiki
+
 A place for information related to microelectronics and heterogeneous integration, please add interesting theory / links / other useful things to the Wiki.
 
 ## Remember: This Is A Public Repo!!! 
@@ -6,7 +7,8 @@ A place for information related to microelectronics and heterogeneous integratio
 Do NOT upload any sensitive or personal information, create a new private repo if you need to do that.<br>
 Whilst anyone can read this, only collaborators can create new pages.
 
-## Using This Repo
+## How To Use This Repo
+
 Use the "Wiki" tab on the top toolbar to see all of the wiki pages and create your own.
 
 See [here](https://docs.github.com/en/communities/documenting-your-project-with-wikis) for an intro of how to use Github Wiki's.
@@ -15,5 +17,7 @@ Please stick to writing files in markdown (.md), it keeps the formatting clean a
 
 [Here](https://www.markdownguide.org/basic-syntax/) is a good guide to markdown syntax for basic formatting (headings, lists and so on).
 
+## How NOT To Use This Repo
+
 This wiki is NOT for project-specific details or code, just general information.<br>
-For example, the specifications for a new power converter should not be stored here, but the theory behind how to design different voltage regulators would be suitable.
+For example, the specifications for a new power converter should not be stored here, but the theory behind how different voltage regulator topologies work would be suitable.
