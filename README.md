@@ -1,6 +1,7 @@
 # The Great CHIMES Wiki
 
-A place for information related to microelectronics and heterogeneous integration, please add interesting theory / links / other useful things to the Wiki.
+A place for information related to microelectronics and heterogeneous integration, please add interesting theory, links, and other useful things to the Wiki.<br>
+There is also an FAQs page if you can't find the answer to something here or easily on the internet.
 
 ## Remember: This Is A Public Repo!!! 
 
